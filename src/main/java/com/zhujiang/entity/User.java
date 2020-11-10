@@ -3,7 +3,8 @@ package com.zhujiang.entity;
 public class User {
     private Integer id;
     private String name;
-    private String email;
+    private String iphone;
+    private String age;
 
     public Integer getId() {
         return id;
